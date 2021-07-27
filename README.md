@@ -1,4 +1,4 @@
-# *Mausam 101 App*
+# *DIL KA MAUSAM*
 
 ![Weather App](./public/sample.png)
 
